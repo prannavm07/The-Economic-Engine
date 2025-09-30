@@ -72,7 +72,7 @@ The dashboard is structured across three pages to guide the user from a high-lev
 *Add your screenshots here to bring the project to life!*
 
 **Page 1: The Global Overview**
-`[Your Screenshot Here]`
+![The Global Overview](https://github.com/prannavm07/The-Economic-Engine/blob/main/1-Snapshot.png)
 
 **Page 2: In-Depth Analysis Page with Scatter Plot**
 `[Your Screenshot Here]`
